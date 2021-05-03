@@ -11,10 +11,11 @@
 - There are some odd characters in the ‘cast’ column. Don’t worry about cleaning them. You can leave them as is.
 
 - The final two columns ending with “_adj” show the budget and revenue of the associated movie in terms of 2010 dollars, accounting for inflation over time.
-- 
+
 
 ### What do I need to install? You will need an installation of Python, plus the following libraries:
 
 - pandas
 - NumPy
 - Matplotlib
+- csv
